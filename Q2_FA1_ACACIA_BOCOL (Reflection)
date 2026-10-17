@@ -1,0 +1,21 @@
+# Reflection
+
+# 1. What functions did you create in your calculator program?
+
+# I created four functions: "add_numbers()", "subtract_numbers()", "multiply_numbers()", and "divide_numbers()". Each function performs a different arithmetic operation.
+
+# 2. What parameters did your functions use?
+
+# Each function uses two parameters, "num1" and "num2", to receive the two numbers needed for the calculation.
+
+# 3. What arguments were passed when the functions were called?
+
+# The variables "num1" and "num2", which contain the numbers entered by the user, were passed as arguments when calling the selected function.
+
+# 4. How did your program use the returned value?
+
+# The program stored the returned value in a variable named "result" and displayed it to the user. Before performing division, the program checked whether the second number was zero to prevent division by zero.
+
+# 5. Why is it better to divide the calculator program into functions instead of writing everything in one long block of code?
+
+# Dividing the program into functions makes the code more organized, readable, and reusable. Each function has a specific purpose, making the program easier to understand, test, and maintain.
